@@ -24,16 +24,22 @@
     <ClCompile Include="Plant.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Shooter.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Sun_Plant.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Sunshine.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Zombie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="all_draw.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="control.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -50,16 +56,22 @@
     <ClInclude Include="Plant.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Shooter.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Sun_Plant.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="Sunshine.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Zombie.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="all_draw.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="control.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

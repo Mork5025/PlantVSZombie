@@ -4,20 +4,9 @@ class Zombie :
     public base_subject
 {
 public:
-    Zombie(int set_blood,int set_attack,double set_arrive_time);
-
-    double get_arrive_time();
-    void set_arrive_time(double a);
-
-    void set_is_screen(bool a);
-    bool get_is_screen();
-
-    int get_kind();
-    void set_kind(int a);
-
-private:
-    bool Is_screnn;
+    bool Is_screen;
     int How_Death;
     int Kind;
+    time_t arrive_time;//僵尸出场的时间
 };
 

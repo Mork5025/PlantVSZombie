@@ -1,6 +1,8 @@
 #pragma once
 
-
+//C++库
+#include<deque>
+using namespace std;
 //c语言库
 #include<cmath>
 #include<cstdio>
@@ -21,3 +23,12 @@
 
 //内部头文件
 #include"base_data.h"
+#include"control.h"
+#include"all_draw.h"
+//类
+#include"Plant.h"
+#include"Zombie.h"
+#include"Sunshine.h"
+#include"Car.h"
+#include"Sunshine.h"
+#include"bullet.h"
